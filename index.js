@@ -40,11 +40,11 @@ function saxonStream2(jarPath,xslPath,opt){
         console.log(stdout);
       }
     });
-    
+
     cmd.on('exit',function(code,sig){
       var cont = fs.readFileSync(result.path);
       self.push(cont);
-      result.unlink();
+      result.unlinkSync();
       n();
     });
   });
