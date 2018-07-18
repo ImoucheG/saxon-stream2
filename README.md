@@ -1,10 +1,10 @@
-## saxon-stream2
+## saxon-stream2.1
 
 simple saxon transform stream wrapper using [through2](https://github.com/rvagg/through2)
 
 ## Usage
 
-    $ npm install saxon-stream2
+    $ npm install saxon-stream2.1
 
 ```js
 var fs = require('fs');
