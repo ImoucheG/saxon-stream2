@@ -1,6 +1,6 @@
 {
   "name": "saxon-stream2",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "simple saxon transform stream wrapper using through2",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,9 @@
   "author": "nbqx",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nbqx/saxon-stream2"
+    "url": "git://github.com/ImoucheG/saxon-stream2"
   },
-  "homepage": "https://github.com/nbqx/saxon-stream2",
+  "homepage": "https://github.com/ImoucheG/saxon-stream2",
   "keywords": [
     "java",
     "saxon",
