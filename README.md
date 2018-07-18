@@ -8,7 +8,7 @@ simple saxon transform stream wrapper using [through2](https://github.com/rvagg/
 
 ```js
 var fs = require('fs');
-var saxon = require('saxon-stream2');
+var saxon = require('saxon-stream2.1');
 
 var jarPath = __dirname+'/vendor/saxon9he.jar';
 var xmlPath = __dirname+'/test/fixtures/test.xml';
